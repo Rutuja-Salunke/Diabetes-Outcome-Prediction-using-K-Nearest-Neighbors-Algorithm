@@ -29,3 +29,6 @@
   - The project demonstrates the application of the K-Nearest Neighbors algorithm for diabetes outcome prediction.
   - Standardization is employed to enhance model performance.
   - The analysis includes an examination of outliers to ensure data quality.
+
+![Screenshot 2024-01-19 171548](https://github.com/Rutuja-Salunke/Diabetes-Outcome-Prediction-using-K-Nearest-Neighbors-Algorithm/assets/102023809/6dd99571-887a-4577-98a8-2bf4fc81de9a)
+
