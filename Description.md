@@ -62,6 +62,7 @@
 
  - 6. ***Choosing the Right 'k':***
    - The choice of the parameter 'k' is crucial. A smaller 'k' can make the model sensitive to noise, while a larger 'k' can make the decision boundary smoother but may miss local patterns.
+   -   - ![Screenshot 2024-01-19 171407](https://github.com/Rutuja-Salunke/Diabetes-Outcome-Prediction-using-K-Nearest-Neighbors-Algorithm/assets/102023809/3d07228b-8b95-485c-9f1f-ca796a9b7a8d)
 
 
 3. **Parameter Tuning:** Determine the optimal value of k (number of neighbors) using techniques like cross-validation.
