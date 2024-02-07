@@ -1,4 +1,6 @@
 # Diabetes Outcome Prediction using K-Nearest Neighbors Algorithm
+![k-nearest-neighbor-algorithm-for-machine-learning2](https://github.com/Rutuja-Salunke/Diabetes-Outcome-Prediction-using-K-Nearest-Neighbors-Algorithm/assets/102023809/7c0950d7-4d72-4c0f-971d-a28bae3b522a)
+
 - **Objective:** The primary goal of the project is to analyze and predict diabetes outcomes based on a dataset related to diabetes.
 
 - **Data Gathering:**
